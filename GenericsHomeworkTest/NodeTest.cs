@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace GenericsHomeworkTest
 {
     [TestClass]
-    public class UnitTest1
+    public class NodeTest
     {
         [TestMethod]
         public void Node_Create()
